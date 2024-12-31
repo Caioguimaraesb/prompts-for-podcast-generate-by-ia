@@ -44,8 +44,8 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pelo Speaktor
+- Roteiro gerado via ChatGPT
+- Áudio gerado pelo Speaktor
 - Gencraft Para gerar capa
 - Capcut para editar aúdio e adicionar sons de fundo
 
