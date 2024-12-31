@@ -64,6 +64,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
+
+## Resultado
+
+- Podcast diponibilizado no youtube: https://youtube.com/shorts/7JfPtraXs6M?feature=share
+
+
 ## 👨‍💻 Expert
 
 <p>
